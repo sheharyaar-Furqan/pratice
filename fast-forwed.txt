@@ -1,1 +1,7 @@
 this is fast forwed merge demo using smart git....
+
+
+
+
+
+this is merge commit demo...
